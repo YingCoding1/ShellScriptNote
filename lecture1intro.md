@@ -6,9 +6,9 @@ https://missing.csail.mit.edu/2020/course-shell/
 
 A **Shell** provides you with an interface to the Unix system. Shell is an environment in which we can run our commands, programs, and shell scripts. There are different flavors of a shell, just as there are different flavors of operating systems.
 
-![image-20221031200944204](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20221031200944204.png)
+![image-20221031200944204](lecture1intro.assets/image-20221031200944204.png)
 
-![image-20221031201705601](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20221031201705601.png)
+![image-20221031201705601](lecture1intro.assets/image-20221031201705601.png)
 
 There are several shells are available for Linux systems like –
 
