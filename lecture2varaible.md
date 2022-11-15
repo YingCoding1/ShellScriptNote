@@ -4,7 +4,7 @@
 
 default the variable will be string, cant be used to calculate as a number
 
-![image-20221031211825809](lecture 2 varaible.assets/image-20221031211825809.png)
+![image-20221031211825809](lecture2varaible.assets/image-20221031211825809.png)
 
 #### -4.1 the system variable
 
@@ -21,7 +21,7 @@ $ echo $HOME
 /home/bala
 ```
 
-![image-20221031205109431](lecture 2 varaible.assets/image-20221031205109431.png)
+![image-20221031205109431](lecture2varaible.assets/image-20221031205109431.png)
 
 (2)look the variables in the current shell
 
@@ -43,7 +43,7 @@ echo $A
 1
 ```
 
-![image-20221031210023896](lecture 2 varaible.assets/image-20221031210023896.png)
+![image-20221031210023896](lecture2varaible.assets/image-20221031210023896.png)
 
 **(be careful there should not have blank around the "="!)**
 
@@ -63,7 +63,7 @@ $echo $B
 
 note that static variable cannot be uset
 
-![image-20221031212014648](lecture 2 varaible.assets/image-20221031212014648.png)
+![image-20221031212014648](lecture2varaible.assets/image-20221031212014648.png)
 
 #### 4.3 special variables $n
 
@@ -98,7 +98,7 @@ parameter.sh hello i
 
    2. example
 
-      (1) ![image-20221031220409310](lecture 2 varaible.assets/image-20221031220409310.png)
+      (1) ![image-20221031220409310](lecture2varaible.assets/image-20221031220409310.png)
 
 
 
